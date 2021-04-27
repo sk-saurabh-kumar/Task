@@ -1,0 +1,38 @@
+
+.button{
+    display: inline-block;
+    border-radius: 7px;
+    background-color: white;
+    border-color: #a3a375;
+    box-shadow: none;
+    text-decoration: none;
+    /* transition: .3s; */
+    padding: 6px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    color: #a3a375;
+    font-weight: 550;
+}
+
+.button:hover {
+    border-color:#e6005c;
+    color: #e6005c;
+}
+
+.buttonclick {
+    display: inline-block;
+    border-radius: 7px;
+    background-color:white;
+    border-color: #e6005c;
+    box-shadow: none;
+    text-decoration: none;
+    /* transition: .3s; */
+    padding: 6px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    color: #e6005c;
+    font-weight: 550;
+
+}

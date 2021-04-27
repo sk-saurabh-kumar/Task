@@ -1,0 +1,27 @@
+.para{
+  background-color:  #ffe6f2;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.options{
+  float: right;
+}
+
+.text{
+  border-radius: 5px;
+  background-color: white;
+  padding: 6px;
+  padding-left: 10px;
+}
+
+.btn{
+  /* border: none; */
+  color: #a3a375;
+  font-weight: bold;
+}
+
+.required{
+  color: #e6005c;
+}
